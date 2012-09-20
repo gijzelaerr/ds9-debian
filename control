@@ -2,7 +2,8 @@ Source: ds9
 Section: unknown
 Priority: extra
 Maintainer: Gijs Molenaar <gijs@pythonic.nl>
-Build-Depends: debhelper (>= 8.0.0), libx11-dev, libxml2-dev, libxslt1-dev, libxt-dev
+Build-Depends: debhelper (>= 8.0.0), libx11-dev, libxml2-dev, libxslt1-dev,
+ libxt-dev, libxft2, libxext6, libxrender1, libxss1
 Standards-Version: 3.9.2
 Homepage: http://hea-www.harvard.edu/RD/ds9/site/
 #Vcs-Git: git://git.debian.org/collab-maint/ds9.git
