@@ -1,0 +1,15 @@
+Source: ds9
+Section: unknown
+Priority: extra
+Maintainer: Gijs Molenaar <gijs@pythonic.nl>
+Build-Depends: debhelper (>= 8.0.0), libx11-dev, libxml2-dev, libxslt1-dev, libxt-dev
+Standards-Version: 3.9.2
+Homepage: http://hea-www.harvard.edu/RD/ds9/site/
+#Vcs-Git: git://git.debian.org/collab-maint/ds9.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/ds9.git;a=summary
+
+Package: ds9
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>

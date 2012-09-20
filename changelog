@@ -1,0 +1,5 @@
+ds9 (7.0.2-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Gijs Molenaar <gijs@pythonic.nl>  Thu, 20 Sep 2012 15:05:25 +0200
